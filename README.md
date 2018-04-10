@@ -1,1 +1,1 @@
-# app-contacts
+https://github.com/aurelia/app-contacts
